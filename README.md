@@ -2,7 +2,7 @@
 
 A simple command-line tool to fetch and display recent public activity of any GitHub user.
 
-📌 This project is part of the [GitHub CLI challenge on roadmap.sh](https://roadmap.sh/projects/github-cli)
+📌 This project is part of the [GitHub CLI challenge on roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
 ## Features
 
